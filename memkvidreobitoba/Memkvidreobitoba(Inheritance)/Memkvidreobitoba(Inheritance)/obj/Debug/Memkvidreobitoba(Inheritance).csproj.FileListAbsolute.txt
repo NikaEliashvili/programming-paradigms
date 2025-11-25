@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\პროგრამირების პარადიგმები\memkvidreobitoba\Memkvidreobitoba(Inheritance)\Memkvidreobitoba(Inheritance)\bin\Debug\Memkvidreobitoba(Inheritance).exe.config
+C:\Users\User\Desktop\პროგრამირების პარადიგმები\memkvidreobitoba\Memkvidreobitoba(Inheritance)\Memkvidreobitoba(Inheritance)\bin\Debug\Memkvidreobitoba(Inheritance).exe
+C:\Users\User\Desktop\პროგრამირების პარადიგმები\memkvidreobitoba\Memkvidreobitoba(Inheritance)\Memkvidreobitoba(Inheritance)\bin\Debug\Memkvidreobitoba(Inheritance).pdb
+C:\Users\User\Desktop\პროგრამირების პარადიგმები\memkvidreobitoba\Memkvidreobitoba(Inheritance)\Memkvidreobitoba(Inheritance)\obj\Debug\Memkvidreobitoba(Inheritance).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\პროგრამირების პარადიგმები\memkvidreobitoba\Memkvidreobitoba(Inheritance)\Memkvidreobitoba(Inheritance)\obj\Debug\Memkvidreobitoba_Inheritance_.Form1.resources
+C:\Users\User\Desktop\პროგრამირების პარადიგმები\memkvidreobitoba\Memkvidreobitoba(Inheritance)\Memkvidreobitoba(Inheritance)\obj\Debug\Memkvidreobitoba_Inheritance_.Properties.Resources.resources
+C:\Users\User\Desktop\პროგრამირების პარადიგმები\memkvidreobitoba\Memkvidreobitoba(Inheritance)\Memkvidreobitoba(Inheritance)\obj\Debug\Memkvidreobitoba(Inheritance).csproj.GenerateResource.cache
+C:\Users\User\Desktop\პროგრამირების პარადიგმები\memkvidreobitoba\Memkvidreobitoba(Inheritance)\Memkvidreobitoba(Inheritance)\obj\Debug\Memkvidreobitoba(Inheritance).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\პროგრამირების პარადიგმები\memkvidreobitoba\Memkvidreobitoba(Inheritance)\Memkvidreobitoba(Inheritance)\obj\Debug\Memkvidreobitoba(Inheritance).exe
+C:\Users\User\Desktop\პროგრამირების პარადიგმები\memkvidreobitoba\Memkvidreobitoba(Inheritance)\Memkvidreobitoba(Inheritance)\obj\Debug\Memkvidreobitoba(Inheritance).pdb
